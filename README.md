@@ -19,18 +19,18 @@ The dataset (DS1_C5_S1_BankChurn_Data_Concept.csv) includes customer demographic
 
   ### Key Analyses:
 
-    #### Attrition Flag Analysis:
+  ##### Attrition Flag Analysis:
       1. Analyze the distribution of customers based on the Attrition_Flag.
       2. Visualize the data using count plots and pie charts.
-    #### Gender Analysis:
+  ##### Gender Analysis:
       1. Explore the gender distribution and its relationship with customer attrition.
       2. Use count plots and pie charts for visualization.
-    #### Dependent Count Analysis:
+  ##### Dependent Count Analysis:
       Examine the number of dependents for each customer and its impact on attrition.
-    #### Transaction Count Analysis:
+  ##### Transaction Count Analysis:
       1. Analyze the distribution of total transactions by customers.
       2. Use histograms and boxplots to identify outliers and patterns.
-    #### Average Utilization Ratio:
+  ##### Average Utilization Ratio:
       1. Investigate the Avg_Utilization_Ratio and its significance in predicting customer churn.
       2. Visualize using histograms and boxplots.
     

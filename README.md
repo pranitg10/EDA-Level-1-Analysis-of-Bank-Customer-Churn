@@ -1,4 +1,5 @@
-# Bank Churn Data - EDA Level 1 Analysis 
+# EDA Level 1 Analysis of Bank Customer Churn
+
 This project focuses on performing a Level 1 Exploratory Data Analysis (EDA) on the Bank Churn dataset to understand key customer behaviors and factors associated with attrition.
 
 # Dataset 
